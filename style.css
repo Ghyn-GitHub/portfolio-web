@@ -1,3 +1,7 @@
 * {
     background-color: aquamarine;
 }
+
+body p {
+    background-color: bisque;
+}
